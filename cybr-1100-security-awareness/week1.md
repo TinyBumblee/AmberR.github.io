@@ -13,4 +13,4 @@ We covered what Cybersecurity is which is the ongoing effort to protect individu
 From this experience, I learned that most cyberattacks don’t begin with complex hacking tools—they often start with simple tricks like phishing or social engineering. I learned that you don't even have to be on a computer to get hacked. It could be something as simple as getting your smart doorbell hacked. I also realized the importance of preventative security measures, such as enabling multi-factor authentication and using strong, unique passwords. These tools add extra layers of protection that could have stopped the attacker from gaining access in the first place. I will for sure be implementing these tools in my everyday life from now on to keep my identity and my personal information safe.
  
 **AI Use Note:**  
-I used ChatGPT to proofread my case file
+I used ChatGPT to proofread my reflection
