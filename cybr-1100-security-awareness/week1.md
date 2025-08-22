@@ -4,8 +4,9 @@
 What was covered this week? Summarize key ideas in 2–3 sentences.  
  
 **Artifacts:**  
-- Screenshot of MFA setup  
-- Screenshot of GitHub Pages live site  
+- Screenshot of MFA setup
+- https://github.com/user-attachments/assets/2965c7e3-56f6-4e56-abc7-17d90d6a3639
+  
  
 **Reflection:**  
 Write 1–2 paragraphs about what you learned and why it matters. Connect it to everyday security habits or the workplace.  
