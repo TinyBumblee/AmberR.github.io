@@ -96,14 +96,14 @@ Below are the comparison tables based on three sample data breach notification l
 
 **Table 1 – Similarities (Common Elements)**
 
-![Similarities (Common Elements)](/images/Table 1 – Similarities (Common Elements).png){: .align-center width="400px"}
+![Similarities (Common Elements)](/images/Table 1 – Similarities (Common Elements).png)
 
 
 
 
 **Table 2 – Differences (Unique Features)**
 
-![Differences (Unique Features)](/images/Table 2 – Differences (Unique Features).png){: .align-center width="400px"}
+![Differences (Unique Features)](/images/Table 2 – Differences (Unique Features).png)
 
 
 
