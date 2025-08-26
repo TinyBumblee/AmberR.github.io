@@ -96,48 +96,13 @@ Below are the comparison tables based on three sample data breach notification l
 
 **Table 1 – Similarities (Common Elements)**
 
-**Element                                               Farmers Insurance                                  The Computer Merchant                                  Mutual of America**
-
-  Company name/logo                                            ✅                                                    ✅                                                 ✅
-  & letterhead
-
-  Date of letter                                        ✅ (Aug 22, 2025)                                    ✅ (Aug 19, 2025)                                   ✅ (Aug 20, 2025)
-
-  “What Happened” section                              ✅ (vendor DB hack)                            ✅ (cyberattack, delayed discovery)                       ✅ (mis-sent email)
-
-  “What Information Was Involved”                       ✅ (personal info)                                     ✅ (name + SSN)                           ✅ (name, SSN, ID#, account balance)
-
-  “What We Are Doing”                            ✅ (investigation, 24m monitoring)                  ✅ (investigation, IDX, $1M insurance)           ✅ (investigation, 12m Experian, education)
-
-  “What You Can Do”                                 ✅ (monitor, freeze, alerts)                        ✅ (monitor, alerts, enroll IDX)                ✅ (monitor, alerts, enroll Experian)
-
-  Free credit monitoring                                    ✅ (24m)                                              ✅ (12/24m)                                         ✅ (12m)
-
-  Enrollment deadline                                   ✅ (Nov 25, 2025)                                     ✅ (Nov 19, 2025)                                 ✅ (Nov 28, 2025)
-
-  Contact info provided                                  ✅ (phone, web)                                     ✅ (phone, QR, web)                          ✅ (phone, Experian site, code)
-
-  Extra resources (FTC/State AG)                               ✅                                                    ✅                                                   ✅
 
 
 
 
 **Table 2 – Differences (Unique Features)**
 
-**Element                                          Farmers Insurance                                     The Computer Merchant                                   Mutual of America**
 
-  Breach type                                      Vendor DB hacked                                      Cyberattack w/ delayed discovery                        Misdirected email
-
-  Technical detail                                 Medium                                                High (wipe/restore, delayed)                            Low (focus on email)
-
-  Identity protection                              CyberScout (24m)                                      IDX (12/24m, $1M insurance, recovery)                   Experian IdentityWorks (12m)
-
-  Enrollment method                                Website + code                                        Website, QR, phone                                      Website + code, Experian support
-
-  Extra services                                   Fraud alerts, credit freeze, state info               $1M insurance reimbursement                             Identity restoration, $1M theft
-                                                                                                                                                                 insurance, dark web monitoring
-
-  Tone                                             Formal/legal-heavy                                    Customer-centered, insurance-heavy                      Reassuring, prevention-focused
 
 
 
