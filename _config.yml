@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Amber Radune"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Just Keep Swimming!"
   location         : "McArthur, Ohio"
-  employer         : ""
-  uri              : # URL
+  employer         : "Hocking Collegw"
+  uri              : "https://tinybumblee.github.io/Amber-Radune/"
   email            : "radunea@hocking.edu" 
 
   # Academic websites
