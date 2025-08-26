@@ -17,6 +17,7 @@ Below are the steps I took to gather the information for the data breach tables.
 
 
 2. *Select Three Breach Notices*
+   
         Farmers New World Life Insurance Company
 
 
@@ -26,11 +27,12 @@ Below are the steps I took to gather the information for the data breach tables.
         Mutual of America Life Insurance Company
 
 
-3. **Download and Review the Letters*
-        For each listing, I clicked Submitted Brief Notification Sample → Sample of Notice (PDF).
+4. **Download and Review the Letters*
+   
+   For each listing, I clicked Submitted Brief Notification Sample → Sample of Notice (PDF).
 
 
-        I read through the letters and highlighted key sections:
+   I read through the letters and highlighted key sections:
 
 
         What Happened
@@ -57,7 +59,8 @@ Below are the steps I took to gather the information for the data breach tables.
         Extra resources (FTC, state Attorney General info)
 
 
-4. **Extract Key Facts from Each*
+6. **Extract Key Facts from Each*
+   
         Farmers Insurance (Aug 22, 2025): Vendor database accessed, 24 months of CyberScout monitoring, enrollment deadline Nov 25, 2025.
    
    
@@ -67,21 +70,23 @@ Below are the steps I took to gather the information for the data breach tables.
         Mutual of America (Aug 20, 2025): Mis-sent secure email, Experian IdentityWorks 12 months, deadline Nov 28, 2025.
 
 
-5. **Build Comparison Tables*
+8. **Build Comparison Tables*
+   
         Table 1 (Similarities): Elements all three letters had in common (company header, what happened, what info, monitoring services, deadlines, contact info, extra guidance).
 
 
         Table 2 (Differences): Unique details (breach type, protection provider, length of coverage, tone, extra services like $1M insurance or dark web monitoring).
 
 
-6. **Summarize Findings*
+10. **Summarize Findings*
+    
         Similarities: All three offered free credit/identity monitoring, included deadlines and codes, and gave customers clear “What You Can Do” steps.
 
 
-        Differences: Each had a different breach type, monitoring service provider, and length of coverage. Tone varied—Farmers was very formal, The Computer Merchant was more     customer-focused, and Mutual of America emphasized prevention/education.
+        Differences: Each had a different breach type, monitoring service provider, and length of coverage. Tone varied—Farmers was very formal, The Computer Merchant was more     customer-focused, and Mutual of America           emphasized prevention/education.
 
 
-7. **Create Deliverables*
+12. **Create Deliverables*
         I placed both tables into a Word document (Data_Breach_Comparison.docx) and also drafted an improved notification letter that combines the best elements: clear plain language, a precise description of data compromised, strong identity protection support, enrollment instructions, and practical next steps for victims.
 
 
