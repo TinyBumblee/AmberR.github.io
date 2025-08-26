@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "[CYBR-1100 - Security Awareness](cybr-1100-security-awareness)"
+excerpt: "Assignments for CYBR-1100 <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
