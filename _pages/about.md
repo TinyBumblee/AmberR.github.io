@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A litter bit about me. 👩🏻‍🦼‍➡️"
+title: "A little bit about me. 👩🏻‍🦼‍➡️"
 author_profile: true
 redirect_from: 
   - /about/
