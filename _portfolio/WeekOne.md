@@ -1,6 +1,6 @@
 ---
 title: "Week One"
-excerpt: "CYBR-1100 Class Assignments"
+excerpt: "Portfolio Entry"
 collection: portfolio
 ---
 
