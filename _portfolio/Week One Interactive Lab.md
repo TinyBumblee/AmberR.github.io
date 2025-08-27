@@ -1,5 +1,5 @@
 ---
-title: "Week 1 Interactive Lab"
+title: "Week One Interactive Lab"
 excerpt: "Comparing Data Breach Notification Letters"
 collection: portfolio
 ---
