@@ -1,6 +1,6 @@
 ---
 title: "Week Two"
-excerpt: "Interactive Lab"
+excerpt: "Interactive Lab - Using an Online Password Cracker"
 collection: portfolio
 ---
 
