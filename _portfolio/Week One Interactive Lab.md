@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Week One Interactive Lab"
+excerpt: "Comparing Data Breach Notification Letters"
 collection: portfolio
 ---
 
