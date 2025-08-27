@@ -1,3 +1,9 @@
+---
+title: "Week One"
+excerpt: "Weekly Refection"
+collection: portfolio
+---
+
 Weekly Reflection #1
 
 Name: Amber Radune
