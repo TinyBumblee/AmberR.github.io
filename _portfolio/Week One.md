@@ -1,6 +1,6 @@
 ---
-title: "CYBR-1100 - Security Awareness"
-excerpt: "CYBR-1100 Class Assignments" # <br/><img src='/images/500x300.png'>
+title: "Week One"
+excerpt: "CYBR-1100 Class Assignments"
 collection: portfolio
 ---
 
