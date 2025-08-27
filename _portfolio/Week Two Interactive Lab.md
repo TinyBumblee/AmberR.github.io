@@ -1,3 +1,9 @@
+---
+title: "Week Two"
+excerpt: "Interactive Lab"
+collection: portfolio
+---
+
 Name: Amber Radune <br>
 Class: CYBR-1100 <br>
 Date: 8/26/2025
