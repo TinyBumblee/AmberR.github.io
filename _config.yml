@@ -27,7 +27,7 @@ author:
   pronouns         : "she/her"  
   bio              : "Just Keep Swimming!"
   location         : "McArthur, Ohio"
-  employer         : "Hocking Collegw"
+  employer         : "Hocking College"
   uri              : "https://tinybumblee.github.io/Amber-Radune/"
   email            : "radunea@hocking.edu" 
 
@@ -225,7 +225,7 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /portfolio/:path/
   talks:
     output: true
     permalink: /:collection/:path/
