@@ -1,3 +1,9 @@
+---
+title: "Week One"
+excerpt: "Case Project"
+collection: portfolio
+---
+
 Name: Amber Radune
 Class: CYBR-1100
 Date: August 22, 2025
