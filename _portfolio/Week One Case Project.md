@@ -4,8 +4,8 @@ excerpt: "Case Project - Personal Attack Experiences"
 collection: portfolio
 ---
 
-Name: Amber Radune
-Class: CYBR-1100
+Name: Amber Radune <br>
+Class: CYBR-1100 <br>
 Date: August 22, 2025
 
 Case Project 1-1: Personal Attack Experiences
