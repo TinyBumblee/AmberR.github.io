@@ -4,8 +4,8 @@ excerpt: "Interactive Lab - Comparing Data Breach Notification Letters"
 collection: portfolio
 ---
 
-Name: Amber Radune
-Class: CYBR-1100
+Name: Amber Radune <br>
+Class: CYBR-1100 <br>
 Date: August 22, 2025
 
 **Project 1-3: Comparing Data Breach Notification Letters**
