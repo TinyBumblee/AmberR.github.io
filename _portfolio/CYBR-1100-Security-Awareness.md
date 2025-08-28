@@ -20,7 +20,7 @@ We covered what Cybersecurity is which is the ongoing effort to protect individu
   <img src='/images/Week-1-Interactive-Lab4.png'>
   <img src='/images/Week-1-Interactive-Lab5.png'>
   <img src='/images/Week-1-Interactive-Lab6.png'>
-- <img src='/images/github-live-page.png'>
+- GitHub Live Page: <br><br> <img src='/images/github-live-page.png'>
   
  
 **Reflection:**  
