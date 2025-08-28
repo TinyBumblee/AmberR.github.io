@@ -12,7 +12,7 @@ We covered what Cybersecurity is which is the ongoing effort to protect individu
  
 **Artifacts:**  
 - Case Project - Project 1-1: [Personal Attack Experiences - "Discord getting Hacked"]("file:/E:/!!%20College%20Classes/Security%20Awareness%20CYBR-1100/Week-1-Case-Project.pdf")
-  <img src='/images/Week_01-Case_Project_Andy_Graybeal-The_Couriers.svg'>
+  <img src='/images/Week-1-Case-Project.png'>
 
 - 
   
