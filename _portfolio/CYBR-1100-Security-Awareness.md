@@ -13,7 +13,7 @@ We covered what Cybersecurity is which is the ongoing effort to protect individu
 **Artifacts:**  
 - Case Project - Project 1-1: <a href="https://tinybumblee.github.io/AmberR.github.io/files/Week-1-Case-Project.pdf">Personal Attack Experiences - "Discord getting Hacked"</a>
   <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-1-Case-Project.png'>
-- Interactive Lab - Project 1-3: [Comparing Data Breach Notification Letters]("https://github.com/TinyBumblee/AmberR.github.io/raw/main/files/Week-1-Interactiv-Lab.pdf")
+- Interactive Lab - Project 1-3: <a href="https://tinybumblee.github.io/AmberR.github.io/files/Week-1-Interactive-Lab.pdf">Comparing Data Breach Notification Letters</a>
   <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-1-Interactive-Lab1.png'>
   <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-1-Interactive-Lab2.png'>
   <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-1-Interactive-Lab3.png'>
