@@ -11,16 +11,16 @@ collection: portfolio
 We covered what Cybersecurity is which is the ongoing effort to protect individuals, organizations and governments from digital attacks by protecting networked systems and data from unauthorized use or harm. We also learned about The McCumber Cube which includes three protections that must be extended, confidentiality, integrity, and availability. I also learned that even if you don't have social media or an online persona you can still be at risk for losing personal information.
  
 **Artifacts:**  
-- Case Project - Project 1-1: [Personal Attack Experiences - "Discord getting Hacked"]("/file/Week-1-Case-Project.pdf")
-  <img src='/images/Week-1-Case-Project.png'>
-- Interactive Lab - Project 1-3: [Comparing Data Breach Notification Letters]("/files/Week-1-Interactiv-Lab.pdf")
-  <img src='/images/Week-1-Interactive-Lab1.png'>
-  <img src='/images/Week-1-Interactive-Lab2.png'>
-  <img src='/images/Week-1-Interactive-Lab3.png'>
-  <img src='/images/Week-1-Interactive-Lab4.png'>
-  <img src='/images/Week-1-Interactive-Lab5.png'>
-  <img src='/images/Week-1-Interactive-Lab6.png'>
-- GitHub Live Page: <br><br> <img src='/images/github-live-page.png'>
+- Case Project - Project 1-1: [Personal Attack Experiences - "Discord getting Hacked"]("https://github.com/TinyBumblee/AmberR.github.io/raw/main/file/Week-1-Case-Project.pdf")
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-1-Case-Project.png'>
+- Interactive Lab - Project 1-3: [Comparing Data Breach Notification Letters]("https://github.com/TinyBumblee/AmberR.github.io/raw/main/files/Week-1-Interactiv-Lab.pdf")
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-1-Interactive-Lab1.png'>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-1-Interactive-Lab2.png'>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-1-Interactive-Lab3.png'>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-1-Interactive-Lab4.png'>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-1-Interactive-Lab5.png'>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-1-Interactive-Lab6.png'>
+- GitHub Live Page: <br><br> <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/github-live-page.png'>
   
  
 **Reflection:**  
