@@ -13,8 +13,7 @@ We covered what Cybersecurity is which is the ongoing effort to protect individu
 **Artifacts:**  
 - Case Project - Project 1-1: [Personal Attack Experiences - "Discord getting Hacked"]("file:/Week-1-Case-Project.pdf")
   <img src='/images/Week-1-Case-Project.png'>
-
-- 
+- Interactive Lab - Project 1-3: Comparing Data Breach Notification Letters
   
  
 **Reflection:**  
