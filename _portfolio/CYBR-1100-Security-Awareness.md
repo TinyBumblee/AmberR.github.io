@@ -11,7 +11,7 @@ collection: portfolio
 We covered what Cybersecurity is which is the ongoing effort to protect individuals, organizations and governments from digital attacks by protecting networked systems and data from unauthorized use or harm. We also learned about The McCumber Cube which includes three protections that must be extended, confidentiality, integrity, and availability. I also learned that even if you don't have social media or an online persona you can still be at risk for losing personal information.
  
 **Artifacts:**  
-- Case Project - Project 1-1: [Personal Attack Experiences - "Discord getting Hacked"]("file:/Week-1-Case-Project.pdf")
+- Case Project - Project 1-1: [Personal Attack Experiences - "Discord getting Hacked"]("/file/Week-1-Case-Project.pdf")
   <img src='/images/Week-1-Case-Project.png'>
 - Interactive Lab - Project 1-3: Comparing Data Breach Notification Letters
   
