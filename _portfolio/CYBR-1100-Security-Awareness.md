@@ -38,7 +38,7 @@ Description:
 What was covered this week? Summarize key ideas in 2–3 sentences.
 
 Artifacts:
-- Interactive Lab - 
+- Interactive Lab - <a href="">Project 2-1: Using an Online Password Cracker</a>
 
 Screenshot of GitHub Pages live site
 Reflection:
