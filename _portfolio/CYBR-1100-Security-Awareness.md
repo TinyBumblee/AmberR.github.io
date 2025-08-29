@@ -28,3 +28,21 @@ From this experience, I learned that most cyberattacks don’t begin with comple
  
 **AI Use Note:**  
 I used ChatGPT to proofread my reflection
+
+
+<a id="week_2"></a><br><br>
+# Week 2 • Personal Cybersecurity
+ 
+Week 2 – Personal Cybersecurity
+Description:
+What was covered this week? Summarize key ideas in 2–3 sentences.
+
+Artifacts:
+
+Screenshot of GitHub Pages live site
+Reflection:
+Write 1–2 paragraphs about what you learned and why it matters. Connect it to everyday security habits or the workplace.
+
+AI Use Note:
+If you used an AI tool (ChatGPT, Copilot, etc.), briefly describe how you used it (e.g., brainstorming, proofreading).
+
