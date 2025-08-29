@@ -38,8 +38,22 @@ What was covered this week? Summarize key ideas in 2–3 sentences.
 
 **Artifacts:**
 - Case Project - <a href="https://tinybumblee.github.io/AmberR.github.io/files/Week-2-Case-Project.pdf">Password Requirements</a>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Case-Project.png'>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Case-Project2.png'>
 - Interactive Lab - <a href="https://tinybumblee.github.io/AmberR.github.io/files/Week-2-Interactive-Lab.pdf">Project 2-1: Using an Online Password Cracker</a>
-  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-1-Case-Project.png'>
+    <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab.png'>
+    **First Set of Screenshots**
+    <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab1.png'>
+    <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab2.png'>
+    <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab3.png'>
+    **Second Set of Screenshots**
+    <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab4.png'>
+    <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab5.png'>
+    <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab6.png'>
+    **Third Set of Screenshots**
+    <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab7.png'>
+    <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab8.png'>
+    <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab9.png'>
 
 **Screenshot of GitHub Pages live site**
 
