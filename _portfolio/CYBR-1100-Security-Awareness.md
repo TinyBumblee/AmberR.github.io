@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <a id="week_1"></a><br><br>
-# Week 1 – Introduction to Security Awareness<br><br>
+# Week 1 – Introduction to Security Awareness
  
 **Description:**  
 We covered what Cybersecurity is which is the ongoing effort to protect individuals, organizations and governments from digital attacks by protecting networked systems and data from unauthorized use or harm. We also learned about The McCumber Cube which includes three protections that must be extended, confidentiality, integrity, and availability. I also learned that even if you don't have social media or an online persona you can still be at risk for losing personal information.
@@ -33,7 +33,7 @@ I used ChatGPT to proofread my reflection
 <a id="week_2"></a><br><br>
 # Week 2 • Personal Cybersecurity
  
-Week 2 – Personal Cybersecurity
+Week 2 – Personal Cybersecurity<br>
 **Description:**
 What was covered this week? Summarize key ideas in 2–3 sentences.
 
