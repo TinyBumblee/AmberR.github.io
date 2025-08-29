@@ -34,7 +34,7 @@ I used ChatGPT to proofread my reflection
 # Week 2 • Personal Cybersecurity
  
 **Description:**
-What was covered this week? Summarize key ideas in 2–3 sentences.
+This week we went over the main kinds of malware, like spyware, ransomware, worms, and rootkits, along with the usual warning signs that a system is infected—things like random crashes, slow performance, or weird programs showing up. We also talked about the different ways hackers break in, such as social engineering tricks, denial-of-service attacks, botnets, man-in-the-middle attacks, and password cracking. On top of that, we covered both hardware and software weaknesses, plus newer threats like cryptojacking, to show how attackers take advantage of flaws to steal information, mess with systems, or make money off their victims.
 
 **Artifacts:**
 - Case Project - <a href="https://tinybumblee.github.io/AmberR.github.io/files/Week-2-Case-Project.pdf">Password Requirements</a>
@@ -54,12 +54,14 @@ What was covered this week? Summarize key ideas in 2–3 sentences.
     <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab7.png'>
     <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab8.png'>
     <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab9.png'>
+- GitHub Live Page: <br><br> <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/github-live-page.png'>
 
-**Screenshot of GitHub Pages live site**
 
 **Reflection:**
-Write 1–2 paragraphs about what you learned and why it matters. Connect it to everyday security habits or the workplace.
+This week, I learned that there are many more types of malware than I thought, and a variety of different tricks hackers use to gain access to systems, including social engineering, weak passwords, and flaws in hardware and software. I also didn’t realize how common the warning signs are—such as when your computer suddenly slows down, programs start acting strangely, or files simply disappear. It made me see how paying attention to little changes on your device can be the first clue that something’s not right.
+This isn’t just important for personal matters—it really matters at work too, since one small mistake can put the entire network in danger. Doing simple things like creating stronger passwords, not clicking on sketchy links, keeping your software up to date, and double-checking requests for sensitive information can help prevent many attacks. Cybersecurity isn’t just an IT department’s problem—it’s something we all need to think about every day to protect our own data and the systems we use.
+
 
 AI Use Note:
-If you used an AI tool (ChatGPT, Copilot, etc.), briefly describe how you used it (e.g., brainstorming, proofreading).
+I used AI to proofread.
 
