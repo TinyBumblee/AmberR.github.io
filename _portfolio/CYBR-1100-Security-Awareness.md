@@ -38,6 +38,7 @@ Description:
 What was covered this week? Summarize key ideas in 2–3 sentences.
 
 Artifacts:
+- Interactive Lab - 
 
 Screenshot of GitHub Pages live site
 Reflection:
