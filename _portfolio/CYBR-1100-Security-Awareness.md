@@ -33,7 +33,6 @@ I used ChatGPT to proofread my reflection
 <a id="week_2"></a><br><br>
 # Week 2 • Personal Cybersecurity
  
-Week 2 – Personal Cybersecurity<br>
 **Description:**
 What was covered this week? Summarize key ideas in 2–3 sentences.
 
