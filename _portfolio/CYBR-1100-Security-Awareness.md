@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <a id="week_1"></a><br><br>
-# Week 1 – Introduction to Security Awareness
+# Week 1 – Introduction to Security Awareness<br><br>
  
 **Description:**  
 We covered what Cybersecurity is which is the ongoing effort to protect individuals, organizations and governments from digital attacks by protecting networked systems and data from unauthorized use or harm. We also learned about The McCumber Cube which includes three protections that must be extended, confidentiality, integrity, and availability. I also learned that even if you don't have social media or an online persona you can still be at risk for losing personal information.
