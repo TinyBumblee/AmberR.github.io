@@ -38,7 +38,7 @@ Week 2 – Personal Cybersecurity
 What was covered this week? Summarize key ideas in 2–3 sentences.
 
 **Artifacts:**
-- Case Project - <a href="">Password Requirements</a>
+- Case Project - <a href="https://tinybumblee.github.io/AmberR.github.io/files/Week-2-Case-Project.pdf">Password Requirements</a>
 - Interactive Lab - <a href="https://tinybumblee.github.io/AmberR.github.io/files/Week-2-Interactive-Lab.pdf">Project 2-1: Using an Online Password Cracker</a>
   <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-1-Case-Project.png'>
 
