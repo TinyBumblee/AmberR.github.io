@@ -65,3 +65,23 @@ This isn’t just important for personal matters—it really matters at work too
 **AI Use Note:**<br>
 I used AI to proofread.
 
+<a id="week_3"></a><br><br>
+# Week 3 • Malware & Attacks
+
+**Description:**<br>
+
+**Artifacts:**<br>
+- Case Project - <a href="">Password Requirements</a><br>
+  <img src=''>
+  <img src=''>
+- Interactive Lab - <a href="">Project 2-1: Using an Online Password Cracker</a><br>
+    <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab.png'><br>
+- GitHub Live Page: <br><br> <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/github-live-page.png'>
+
+
+**Reflection:**<br>
+
+
+
+**AI Use Note:**<br>
+I used AI to proofread.
