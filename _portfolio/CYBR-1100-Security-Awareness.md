@@ -70,11 +70,12 @@ I used AI to proofread.
 
 **Description:**<br>
 
+
 **Artifacts:**<br>
-- Case Project - <a href="">Password Requirements</a><br>
+- Case Project - <a href="https://tinybumblee.github.io/">Malware Case Analysis</a><br>
   <img src=''>
   <img src=''>
-- Interactive Lab - <a href="">Project 2-1: Using an Online Password Cracker</a><br>
+- Case Project - <a href="">Project 3-2: Reasons for Zero-Day Attacks</a><br>
     <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab.png'><br>
 - GitHub Live Page: <br><br> <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/github-live-page.png'>
 
