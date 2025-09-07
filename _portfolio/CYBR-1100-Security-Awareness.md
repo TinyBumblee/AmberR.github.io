@@ -72,12 +72,14 @@ I used AI to proofread.
 
 
 **Artifacts:**<br>
-- Case Project - <a href="https://tinybumblee.github.io/files/Milestone2PartAMalwareCaseAnalysis.pdf">Malware Case Analysis</a><br>
+- Case Project - <a href="https://tinybumblee.github.io/files/Milestone2PartAMalwareCaseAnalysis.pdf">Zero Day Attack</a><br>
   <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/MalwareCaseStudy.png'>
   <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/MalwareCaseStudy2.png'>
   <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/MalwareCaseStudy3.png'>
-- Case Project - <a href="https://tinybumblee.github.io/files/CaseProject32ReasonsforZeroDayAttacks.pdf">Project 3-2: Reasons for Zero-Day Attacks</a><br>
-    <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab.png'><br>
+- Case Project - <a href="https://tinybumblee.github.io/files/CaseProject32ReasonsforZeroDayAttacks.pdf">Project 3-1: Biological and File-Based Viruses</a><br>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/MalwareCaseStudy.png'>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/MalwareCaseStudy2.png'>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/MalwareCaseStudy3.png'>
 - GitHub Live Page: <br><br> <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/github-live-page.png'>
 
 
