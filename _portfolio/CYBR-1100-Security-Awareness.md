@@ -73,8 +73,9 @@ I used AI to proofread.
 
 **Artifacts:**<br>
 - Case Project - <a href="https://tinybumblee.github.io/files/Milestone2PartAMalwareCaseAnalysis.pdf">Malware Case Analysis</a><br>
-  <img src=''>
-  <img src=''>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/MalwareCaseStudy.png'>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/MalwareCaseStudy2.png'>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/MalwareCaseStudy3.png'>
 - Case Project - <a href="">Project 3-2: Reasons for Zero-Day Attacks</a><br>
     <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/Week-2-Interactive-Lab.png'><br>
 - GitHub Live Page: <br><br> <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/github-live-page.png'>
