@@ -72,7 +72,7 @@ I used AI to proofread.
 
 
 **Artifacts:**<br>
-- Case Project - <a href="https://tinybumblee.github.io/">Malware Case Analysis</a><br>
+- Case Project - <a href="https://tinybumblee.github.io/files/Milestone2PartAMalwareCaseAnalysis.pdf">Malware Case Analysis</a><br>
   <img src=''>
   <img src=''>
 - Case Project - <a href="">Project 3-2: Reasons for Zero-Day Attacks</a><br>
