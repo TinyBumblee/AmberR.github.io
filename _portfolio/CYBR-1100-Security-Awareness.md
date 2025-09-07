@@ -77,9 +77,9 @@ I used AI to proofread.
   <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/MalwareCaseStudy2.png'>
   <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/MalwareCaseStudy3.png'>
 - Case Project - <a href="https://tinybumblee.github.io/files/CaseProject32ReasonsforZeroDayAttacks.pdf">Project 3-1: Biological and File-Based Viruses</a><br>
-  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/MalwareCaseStudy.png'>
-  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/MalwareCaseStudy2.png'>
-  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/MalwareCaseStudy3.png'>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/BiologicalandFileBasedViruses.png'>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/BiologicalandFileBasedViruses2.png'>
+  <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/BiologicalandFileBasedViruses3.png'>
 - GitHub Live Page: <br><br> <img src='https://github.com/TinyBumblee/AmberR.github.io/raw/main/images/github-live-page.png'>
 
 
