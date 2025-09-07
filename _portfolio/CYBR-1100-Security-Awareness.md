@@ -69,7 +69,7 @@ I used AI to proofread.
 # Week 3 • Malware & Attacks
 
 **Description:**<br>
-
+In Chapter 3, I learned about various types of malware, including viruses, worms, Trojans, and ransomware, and how they infect systems through phishing, malicious downloads, or unpatched software. Malware can slow computers, steal data, or give attackers control. The chapter also explained defenses such as updates, antivirus software, and firewalls, along with the importance of user awareness. I found it interesting how malware was compared to biological viruses—both spread quickly and need strong defenses to stop them.
 
 **Artifacts:**<br>
 - Case Project - <a href="https://tinybumblee.github.io/files/Milestone2PartAMalwareCaseAnalysis.pdf">Zero Day Attack</a><br>
@@ -84,8 +84,8 @@ I used AI to proofread.
 
 
 **Reflection:**<br>
-
+I learned how different types of malware work and the ways attackers use them to spread, like phishing or unpatched software. I realize now that malware can do a lot of damage by stealing information or shutting systems down, which is why things like updates, antivirus, and being careful online really matter. What really stuck with me was the comparison to biological viruses, it made it easier for me to understand how fast malware spreads and why we need to stop it before it starts.
 
 
 **AI Use Note:**<br>
-I used AI to proofread.
+I used AI to help with brainstorming and proofreading.
